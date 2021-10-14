@@ -1,0 +1,42 @@
+.header h1{
+    font-family: 'Inconsolata';
+    letter-spacing: -3px;
+    }
+body{
+    width: 1440px;
+    height: 1080px;
+    font-family: 'Space Mono';
+}
+.container{
+    display: flex;
+    
+}
+.scarecrow{
+width: 539px; 
+height: 447px; 
+} 
+/* .right_content{
+} */
+.title_content{
+    font-size: 24px;
+    width: 586px;
+    height: 190px;
+}
+.text_content{
+    
+    font-size: 24px;
+
+}
+.btn1 {
+    width: max-content;
+    height: max-content;
+    background-color: rgb(0, 0, 0);
+}
+.btn1__text{
+    display: block;
+    padding: 24px 43px 23;
+    text-decoration: none;
+    color: white;
+    width: max-content;
+    height: max-content;
+}
